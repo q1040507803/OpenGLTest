@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\代码\openGL\第五次上机\draw.h(73,9): warning C4101: “j”: 未引用的局部变量
+D:\代码\openGL\第五次上机\draw.h(113,9): warning C4101: “j”: 未引用的局部变量
+D:\代码\openGL\第五次上机\draw.h(152,9): warning C4101: “j”: 未引用的局部变量
+  第五次上机.vcxproj -> D:\代码\openGL\第五次上机\Debug\第五次上机.exe
